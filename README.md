@@ -63,7 +63,8 @@ If you encounter difficulties and need to view the solution, you can find it at:
 cat ./solution/solution.sh
 ```
 
-**Note**: 
+**Note**:
+
 Make sure your working directory is the question directory.
 
 When running `start.sh`, any changes made in minikube will be deleted.
