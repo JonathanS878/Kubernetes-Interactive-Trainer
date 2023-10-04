@@ -1,6 +1,7 @@
 # Kubernetes Interactive Trainer
 
-Welcome to the Kubernetes Interactive Trainer! This repository is designed to help you learn, manage, deploy, and use Kubernetes more effectively.
+Welcome to the Kubernetes Interactive Trainer!
+This repository is designed to help you learn, manage, deploy, and use Kubernetes more effectively.
 
 ## Before Getting Started
 
