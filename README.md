@@ -69,6 +69,8 @@ Make sure your working directory is the question directory.
 
 When running `start.sh`, any changes made in minikube will be deleted.
 
+Don't forget the powerful tool: [Kubernetes Documentation](https://kubernetes.io/docs/home/).
+
 ## Credits
 
 This project has been developed to help you and others improve their Kubernetes skills. Please attribute the credit to the creator:
