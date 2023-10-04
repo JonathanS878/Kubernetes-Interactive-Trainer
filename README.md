@@ -1,6 +1,7 @@
 # Kubernetes Interactive Trainer
 
 Welcome to the Kubernetes Interactive Trainer!
+
 This repository is designed to help you learn, manage, deploy, and use Kubernetes more effectively.
 
 ## Before Getting Started
@@ -63,7 +64,8 @@ cat ./solution/solution.sh
 ```
 
 **Note**: 
-Make sure your working directory is the question directory. 
+Make sure your working directory is the question directory.
+
 When running `start.sh`, any changes made in minikube will be deleted.
 
 ## Credits
